@@ -1,3 +1,3 @@
-# hackerrank-algo
+# hackerrank-problems
 
-The solution of Hackerrank algorithm problems are indexed here.
+The solution of Hackerrank problems are indexed here.
